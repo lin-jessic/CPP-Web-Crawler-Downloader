@@ -18,22 +18,22 @@
 ```text
 CPP-Web-Crawler-Downloader/
 │
-├── src/
+├── B1229062-VS_code(下載檔案)/
+│   ├── 0/資料夾裡面放的是爬蟲教授指定的網頁所下載下來的內容
 │   ├── main.cpp
 │   ├── downloader.cpp
 │   ├── downloader.h
 │   ├── advanced.cpp
 │   ├── advanced.h
-│   └── util.h
+│   ├── util.h
+│   └── web.exe
 │
-├── reports/
-│   └──  Term_Project_Report.pdf
-│
-├── README.md
-└── .gitignore
+├── Term_Project_Report.pdf
+│ 
+└── README.md
 ```
 
-`src/` 保存專題原始程式碼；`reports/` 則收錄期末專題報告與課程題目規格。
+`B1229062-VS_code(下載檔案)/` 保存專題原始程式碼；`Term_Project_Report.pdf` 則收錄期末專題報告。
 
 ---
 
@@ -218,8 +218,7 @@ Task Queue ──────├─ Worker 2
 
 完整課程文件：
 
-- [`Term_Project_Report.pdf`](./reports/Term_Project_Report.pdf) — 程式架構、程式碼說明、操作方式、測試成果與心得
-- [`Assignment_Specification.pdf`](./reports/Assignment_Specification.pdf) — 課程期末專題原始題目與功能規格
+- [`Term_Project_Report.pdf`](.Term_Project_Report.pdf) — 程式架構、程式碼說明、操作方式、測試成果與心得
 
 ---
 
