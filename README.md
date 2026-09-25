@@ -218,7 +218,7 @@ Task Queue ──────├─ Worker 2
 
 完整課程文件：
 
-- [`Term_Project_Report.pdf`](.Term_Project_Report.pdf) — 程式架構、程式碼說明、操作方式、測試成果與心得
+- [`Term_Project_Report.pdf`](./Term_Project_Report.pdf) — 程式架構、程式碼說明、操作方式、測試成果與心得
 
 ---
 
